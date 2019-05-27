@@ -12,5 +12,5 @@ namespace parkingLotSimulation
             {
                 UserInterface ui = new UserInterface();
             }
-    }
+    } 
 }
