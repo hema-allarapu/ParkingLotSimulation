@@ -26,7 +26,7 @@ Once the vehicle is parked at a slot the slot is marked occupied.
 When a vehicle moves out of a slot it is marked free, and the parking ticket is
 returned to the Parking Lot system.
 <br>
-Simulate a parking lot system using a console application. The simulation should allow you to
+This simulation should allow you to
 <br>
  Initialize a parking lot.
  See Parking Lot current occupancy details.
