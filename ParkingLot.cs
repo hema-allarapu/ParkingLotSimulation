@@ -34,7 +34,7 @@ namespace parkingLotSimulation
         {
             int i = 0;
             foreach(ParkingSlot slot in Slots)
-            {
+            { 
                 if (parkingSlot.slotNumber==i)
                 {
                     if (slot.isAvaliable == true)
