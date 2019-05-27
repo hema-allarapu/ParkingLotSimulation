@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace parkingLotSimulation
+namespace parkingLotSimulation 
 {
    public class Vehicle
     {
