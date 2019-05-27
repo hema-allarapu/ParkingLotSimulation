@@ -12,6 +12,6 @@ namespace parkingLotSimulation
         public void StoreTicket(Ticket ticket, Vehicle vehicle,ParkingLot parkingLot)
         {
             tickets.Add(new Ticket() { vehicleNumberr = vehicle.vehicleNumber, slotNumber = ticket.slotNumber, intime = ticket.intime });
-        }
+        } 
     }
 }
